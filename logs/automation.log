@@ -1,0 +1,16 @@
+2024-11-08 14:44:03 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\SAI PRAKASH\Desktop\STUDY\ECLIPSE WORKSPACE\opencart\master.xml"
+2024-11-08 14:44:05 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-11-08 14:44:05 DEBUG TC_002_LoginTest:18 - capturing application debug logs....
+2024-11-08 14:44:06 INFO  TC_002_LoginTest:24 - clicked on myaccount link on the home page..
+2024-11-08 14:44:06 INFO  TC_002_LoginTest:26 - clicked on login link under myaccount..
+2024-11-08 14:44:06 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2024-11-08 14:44:06 INFO  TC_002_LoginTest:35 - clicked on login button..
+2024-11-08 14:44:07 INFO  TC_002_LoginTest:49 - **** Finished TC_002_LoginTest  ****
+2024-11-08 14:54:26 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\SAI PRAKASH\Desktop\STUDY\ECLIPSE WORKSPACE\opencart\master.xml"
+2024-11-08 14:54:28 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-11-08 14:54:28 DEBUG TC_002_LoginTest:18 - capturing application debug logs....
+2024-11-08 14:54:28 INFO  TC_002_LoginTest:24 - clicked on myaccount link on the home page..
+2024-11-08 14:54:29 INFO  TC_002_LoginTest:26 - clicked on login link under myaccount..
+2024-11-08 14:54:29 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2024-11-08 14:54:29 INFO  TC_002_LoginTest:35 - clicked on login button..
+2024-11-08 14:54:30 INFO  TC_002_LoginTest:49 - **** Finished TC_002_LoginTest  ****
